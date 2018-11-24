@@ -5,7 +5,7 @@ Major financial institutions do not typically service well the needs of lower in
 The work that follows will explore a dataset from a lender operating in this under-banked segment. The dataset contains details of loan applicants at the time of application plus a target variable indicating whether the applicant ultimately defaulted (target = 1) or not (target = 0). I will look for relationships between the characteristics of a loan applicant and their risk of default. For example, are people employed in a certain industry more likely to default, does length of employment, family status or size and location of residence impact default risk? Lastly, through the use of machine learning algorithms, I will attempt to predict the likelihood of default for a new loan applicant.
 
 Notebook order of execution:
-1. Initial_Processing/Home_Credit_Initial_Processing.ipynb
-1. Features_from Bureau_Data/Features_From_Bureau_Data.ipynb
-1. EDA/Initial_EDA.ipynb
-1. more to follow...
+1. Initial_Processing
+1. Attributes_from_Bureau_Data
+1. 
+1. 

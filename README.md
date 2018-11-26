@@ -1,8 +1,4 @@
-The best way to view the Jupyter Notebooks in this repository is to navigate to
-[http://nbviewer.jupyter.org/](http://nbviewer.jupyter.org/)
-and type **netvigate888/credit_default_prediction** in the search field. This website will render Jupyter Notebooks correctly with working internal hyperlinks.
-
-Alternatively, this [link](http://nbviewer.jupyter.org/github/netvigate888/credit_default_prediction/tree/master/) will take you straight there.
+The best way to view the Jupyter Notebooks in this repository is to use the website http://nbviewer.jupyter.org. This link [Notebook Viewer](http://nbviewer.jupyter.org/github/netvigate888/credit_default_prediction/tree/master/) will take you straight to the website and the Notebook Viewer for this repository.
 
 # Default Risk Analysis in the Low-Income Segment
 
